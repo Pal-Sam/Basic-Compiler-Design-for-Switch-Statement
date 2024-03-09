@@ -1,0 +1,63 @@
+TOKEN,IDENTITY
+int,Keyword
+main,Keyword
+(,Open bracket
+(,identifier
+),Close bracket
+char,Keyword
+operator,identifier
+;,Semicolon
+int,Keyword
+firstNumber,identifier
+",",Comma
+secondNumber,identifier
+;,Semicolon
+switch,Keyword
+(,Open bracket
+(,identifier
+operator,identifier
+),Close bracket
+begin,Keyword
+case,Keyword
++,plus
+:,Colon
+printf,Keyword
+(,Open bracket
+(,identifier
+firstNumber,identifier
++,plus
+secondNumber,identifier
+),Close bracket
+;,Semicolon
+break,Keyword
+;,Semicolon
+case,Keyword
+-,minus
+:,Colon
+printf,Keyword
+(,Open bracket
+(,identifier
+firstNumber,identifier
+-,minus
+secondNumber,identifier
+),Close bracket
+;,Semicolon
+break,Keyword
+;,Semicolon
+case,Keyword
+-,minus
+:,Colon
+printf,Keyword
+(,Open bracket
+(,identifier
+firstNumber,identifier
+-,minus
+secondNumber,identifier
+),Close bracket
+;,Semicolon
+break,Keyword
+;,Semicolon
+end,Keyword
+return,Keyword
+0,0
+;,Semicolon
